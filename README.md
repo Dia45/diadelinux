@@ -1,2 +1,3 @@
 # diadelinux
-mais especificamente o arch
+um dia serei o dia de muito conhecimento no linux.
+
